@@ -1,0 +1,1027 @@
+.header-Top {
+    height: 28px;
+    border-bottom: 1px solid #ddd;
+    position: relative;
+    z-index: 1002;
+    background-color: #f5f5f5;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.w {
+    width: 1200px;
+}
+
+.ct {
+    margin: 0 auto;
+}
+
+.rel {
+    position: relative;
+}
+
+.header-Top .header-left div {
+    float: left;
+    padding: 0 5px;
+    line-height: 28px;
+}
+
+.header-Top .header-left p {
+    float: left;
+    padding: 0 5px;
+    line-height: 28px;
+}
+
+.header-t3-place {
+    position: relative;
+    color: #666;
+}
+
+.header-t3-place b {
+    background: url(../E宠/images/xqico.png) 0 -31px no-repeat;
+    display: block;
+    top: 9px;
+    right: -10px;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+}
+
+.header-right {
+    float: right;
+    width: 700px;
+}
+
+.header-right li {
+    float: right;
+    position: relative;
+    line-height: 28px;
+    padding: 0 5px;
+    z-index: 120;
+}
+
+.header-right li i {
+    width: 13px;
+    height: 13px;
+    background-position: -312px -46px;
+    background-repeat: no-repeat;
+    margin-top: 7px;
+    margin-right: 5px;
+    float: left;
+    background: url(../E宠/images/bg.png);
+}
+
+.header-right li:first-child a {
+    color: red;
+}
+
+.header-right li:nth-child(2) i {
+    background-position: -334px -46px;
+}
+
+.header-right li:nth-child(3) {
+    position: relative;
+    padding-right: 14px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+
+.header-right li:nth-child(3) i {
+    background-position: -353px -46px;
+    width: 15px;
+    margin-right: 4px;
+}
+
+.header-right li:nth-child(4) {
+    position: relative;
+    padding-right: 14px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+
+.header-right li:nth-child(4) i {
+    background-position: -312px -46px;
+    width: 15px;
+    margin-right: 4px;
+}
+
+
+.header-right li:nth-child(5) i {
+    background-position: -291px -46px;
+    width: 14px;
+    height: 14px;
+    margin-right: 4px;
+}
+
+.header-right li:nth-child(5) span {
+    color: red;
+}
+
+.header-right li a {
+    color: #444;
+}
+
+.header-right .r1img {
+    position: absolute;
+    left: 0;
+    top: 28px;
+    width: 80px;
+    display: none;
+}
+
+.epet-index-brand {
+    background: url(../E宠/images/top1.png) no-repeat;
+    background-position: 0 8px;
+    display: inline-block;
+    height: 28px;
+    text-indent: 16px;
+}
+
+.epetbrand {
+    display: inline-block;
+    height: 28px;
+    text-indent: 19px;
+    background-image: url(../E宠/images/bg.png);
+    background-repeat: no-repeat;
+    background-position: -9px -425px;
+    margin-left: 13px;
+}
+
+.header {
+    height: 100px;
+    position: relative;
+    z-index: 900;
+    padding-top: 10px;
+}
+
+.header .logo {
+    height: 94px;
+    width: 268px;
+}
+
+.header .logo a.lo {
+    display: inline-block;
+    width: 268px;
+    height: 94px;
+    background: url(../E宠/images/epet-logo.png) no-repeat 0 -12px;
+    margin-top: 7px;
+}
+
+.search {
+    margin: 23px 0 0 33px;
+}
+
+.search input {
+    border: #74BE5F solid 2px;
+    padding: 0 5px 0 15px;
+    width: 408px;
+    height: 34px;
+    outline: 0;
+    line-height: 30px;
+    font-size: 14px;
+    float: left;
+    box-sizing: inherit;
+}
+
+.search button {
+    border: 0;
+    width: 73px;
+    height: 34px;
+    vertical-align: top;
+    cursor: pointer;
+    background-color: #74BE5F;
+    color: #FFF;
+    font-size: 14px;
+}
+
+.search-btm {
+    margin: 10px 0;
+    width: 498px;
+    height: 17px;
+    overflow: hidden;
+}
+
+.search-btm a {
+    color: red;
+}
+
+.search-btm label {
+    float: left;
+    display: inline;
+    white-space: nowrap;
+    color: #999;
+}
+
+.search-btm span {
+    margin: 0 7px;
+    color: #999;
+}
+
+.go-buy {
+    margin: 23px 0 0;
+    width: 130px;
+    height: 39px;
+    line-height: 39px;
+    text-align: center;
+    text-indent: 2em;
+    background: url(../E宠/images/shopping-cart.gif) no-repeat;
+}
+
+.go-buy a {
+    color: #666;
+}
+
+.go-buy span {
+    display: inline-block;
+    vertical-align: middle;
+    color: #f40;
+    text-indent: 0;
+    margin: 0 2px;
+}
+
+.nav {
+    background: #fff;
+    padding-top: 10px;
+}
+
+.navBox {
+    position: relative;
+    z-index: 102;
+}
+
+.maincates {
+    position: relative;
+    width: 228px;
+    height: 34px;
+    line-height: 34px;
+    color: #FFF;
+    font-size: 16px;
+    text-align: center;
+    z-index: 1001;
+}
+
+.maincates span {
+    float: left;
+    width: 114px;
+    height: 34px;
+    text-align: center;
+    border: 1px solid #e1e1e1;
+    color: #666;
+    cursor: pointer;
+}
+
+.maincates .shopfl {
+    background-color: #FD7A36;
+    color: #fff;
+    border-bottom: 0;
+}
+
+.maincates .cate1 {
+    display: inline-block;
+    width: 16px;
+    height: 13px;
+    vertical-align: middle;
+    margin-top: -2px;
+    background: url(../E宠/images/bg2.png);
+    background-position: 233px -1257px;
+    margin-left: 5px;
+}
+
+.menus {
+    overflow: hidden;
+    height: 34px;
+}
+
+.menus li {
+    float: left;
+    display: inline;
+    z-index: 102;
+    position: relative;
+
+}
+
+.menus li a {
+    float: left;
+    display: inline;
+    line-height: 34px;
+    font-size: 16px;
+    color: #000;
+    font-weight: 700;
+    padding: 0 20px;
+    text-decoration: none;
+    outline: 0;
+    height: 34px;
+}
+
+
+
+.maincates .cate2 {
+    display: inline-block;
+    vertical-align: middle;
+    width: 13px;
+    height: 7px;
+    margin-top: -2px;
+    background: url(../E宠/images/bg2.png);
+    background-position: 0 -1276px;
+    margin-left: 5px;
+}
+
+.menus li:first-child a {
+    padding: 0 0 0 25px;
+}
+
+.menus a i {
+    display: inline-block;
+    width: 13px;
+    height: 17px;
+    background: url(../E宠/images/bg2.png) -35px -1280px;
+    vertical-align: middle;
+    margin-top: -2px;
+    margin-right: 6px;
+}
+
+.adepet {
+    overflow: hidden;
+    position: relative;
+}
+
+.indexlbox {
+    background: #f5f5f5;
+}
+
+.indexmidpic {
+    height: 360px;
+    overflow: hidden;
+    position: relative;
+}
+
+.playpic a,
+.playpic a:visited {
+    width: 21px;
+    height: 21px;
+    margin-right: 5px;
+    text-align: center;
+    display: inline-block;
+    line-height: 21px;
+    background-color: #999;
+    border-radius: 50%;
+    color: #FFF;
+}
+
+.playpic {
+    position: absolute;
+    top: 325px;
+    left: 10px;
+    text-align: center;
+    width: 100%;
+    z-index: 100;
+}
+
+.main_rBox {
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 0;
+}
+
+.main_r {
+    width: 200px;
+    height: 360px;
+    background: #fff;
+    position: relative;
+    z-index: 10;
+    margin-right: 2px;
+    overflow: hidden;
+}
+
+.indexaapic div.wmx {
+    padding-left: 36px;
+    width: 780px;
+}
+
+.maincates .cateheader {
+    border-top: 1px solid #FFF;
+}
+
+.catelist {
+    width: 228px;
+    position: absolute;
+    top: 36px;
+    left: 0;
+}
+
+.catelist ul {
+    overflow: hidden;
+    background: #fff;
+}
+
+.catelist li {
+    height: 72px;
+    display: block;
+    width: 100%;
+    float: left;
+    background: url(../E宠/images/menuLine1.png) 50% bottom no-repeat;
+}
+
+.catelist h3 {
+    padding-left: 16px;
+    font-weight: 400;
+    height: 71px;
+    line-height: 71px;
+    background-color: #fcfcfc;
+}
+
+.catelist h3 {
+    background-image: url(../E宠/images/arrow-r.png);
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+}
+
+.catelist h3 a {
+    font-size: 14px;
+    display: inline-block;
+    width: 86px;
+    overflow: hidden;
+    height: 71px;
+    text-indent: -25px;
+}
+
+.mt30 {
+    margin-top: 30px;
+}
+
+.pb10 {
+    padding-bottom: 10px;
+}
+
+.epetfood-tit i.cate_5 {
+    background: url(../E宠/images/cate_5.png) no-repeat;
+}
+
+.epetfood-tit i {
+    width: 30px;
+    height: 30px;
+}
+
+.index-ico {
+    background: url(../E宠/images/index-ico.png) no-repeat;
+}
+
+.mr5 {
+    margin-right: 5px;
+}
+
+.dib {
+    display: inline-block;
+    display: inline;
+    zoom: 1;
+}
+
+.ad-img3 {
+    width: 328px;
+    height: 477px;
+}
+
+.ad-img3 .stylebg {
+    background: rgba(255, 255, 255, 0.8);
+    width: 298px;
+    height: 148px;
+    left: 0;
+    bottom: 0;
+    padding: 15px;
+}
+
+.epetfood-pro {
+    width: 872px;
+    border-top: 1px solid #74BE5F;
+}
+
+.lib-menu {
+    border-right: 1px solid #e7e7e7;
+    top: -35px;
+    right: 0;
+    width: 872px;
+    height: 35px;
+}
+
+.lib-menu ul {
+    border-left: 1px solid #e7e7e7;
+    margin-right: 0px;
+}
+
+.lib-menu li.hover {
+    border-left: 1px solid #74BE5F;
+    border-right: 1px solid #74BE5F;
+    border-top: 1px solid #74BE5F;
+    margin-left: -2px;
+    border-bottom: 1px solid #fff;
+}
+
+.lib-menu li {
+    border-bottom: 1px solid #74BE5F;
+    border-left: #fff;
+    border-right: 1px solid #fff;
+    height: 33px;
+    border-top: 1px solid #e7e7e7;
+}
+
+.lib-menu li.hover .border-t {
+    border-top: 2px solid #74BE5F;
+}
+
+.lib-menu .border-t {
+    border-top: 2px solid #fff;
+    padding-top: 5px;
+}
+
+.lib-menu li.hover span {
+    border-right: none;
+    color: #74BE5F;
+}
+
+.lib-menu li span {
+    padding: 0 15px;
+    border-right: 1px solid #e7e7e7;
+    font-size: 14px;
+}
+
+.lib-menu .border-t {
+    border-top: 2px solid #fff;
+    padding-top: 5px;
+}
+
+.lib_conbox .imgbox {
+    border-right: 1px solid #e7e7e7;
+}
+
+.epetfood-pro .border-r {
+    border-left: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    overflow: hidden;
+}
+
+.epetfood-pro .bigimg1 {
+    width: 388px;
+    height: 299px;
+}
+
+.epetfood-pro .bigimg1 .ad-font {
+    width: 160px;
+    position: absolute;
+    top: 30px;
+    left: 27px;
+    z-index: 1;
+}
+
+.epetfood-pro .border-r .fontover {
+    text-overflow: inherit;
+}
+
+.fontover {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.epetfood-pro .imgbox img {
+    -webkit-transition: -webkit-transform .5s;
+    transition: -webkit-transform .5s;
+    -moz-transition: transform .5s, -moz-transition .5s;
+    transition: transform .5s, -webkit-transform .5s, -moz-transform .5s;
+}
+
+.epetfood-pro .bigimg2 {
+    width: 481px;
+    height: 149px;
+}
+
+.epetfood-pro .bigimg2 .ad-font {
+    width: 160px;
+    position: absolute;
+    top: 28px;
+    left: 67px;
+    z-index: 1;
+}
+
+.ad-threebox {
+    background: #f9f9f9;
+}
+
+.epetfood-pro .bigimg3 {
+    width: 289px;
+    height: 175px;
+}
+
+.epetfood-pro .bigimg3 .ad-font {
+    width: 160px;
+    position: absolute;
+    top: 15px;
+    left: 29px;
+    z-index: 1;
+}
+
+.ad-img3 .hotkind {
+    height: 30px;
+    line-height: 30px;
+}
+
+.ad-img3 .hotkind span {
+    width: 87px;
+    word-wrap: normal;
+}
+
+.ad-img3 .hotkind i {
+    width: 27px;
+    height: 27px;
+    background-position: -113px -170px;
+}
+
+.index-ico {
+    background: url(../E宠/images//index-ico.png) no-repeat;
+}
+
+.ad-img3 .kind-name {
+    width: 315px;
+    height: 102px;
+}
+
+.ad-img3 .kind-name li {
+    width: 105px;
+    height: 24px;
+    line-height: 24px;
+    margin-top: 10px;
+}
+
+.ad-img3 .kind-name li a {
+    border-radius: 30px;
+    margin-right: 18px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    padding: 0 5px;
+    overflow: hidden;
+}
+
+.brands-ul {
+    border-right: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+}
+
+.brands-ul li {
+    width: 148px;
+    height: 66px;
+    border-left: 1px solid #e7e7e7;
+    overflow: hidden;
+    text-align: center;
+}
+
+.brands-ul li img {
+    width: 100px;
+    height: 48px;
+    margin-top: 8px;
+}
+
+.footer-content {
+    background: #f5f5f5;
+}
+
+.footer-content .footer-top {
+    border-bottom: 1px solid #e5e5e5;
+    height: 100px;
+}
+
+.footer-content .footer-imgs ul {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 19px 0;
+}
+
+.footer-content .footer-imgs ul li {
+    width: 200px;
+}
+
+.footer-content .footer-imgs ul li .zp {
+    background: url(../E宠/images/footer-logo.png) 0 0 no-repeat;
+}
+
+.footer-content .footer-imgs ul li a {
+    display: block;
+    width: 128px;
+    height: 62px;
+    padding-left: 72px;
+    line-height: 62px;
+    color: #444;
+    font-weight: 700;
+    transition: all .8s ease;
+    -webkit-transition: all .8s ease;
+    -moz-transition: all .8s ease;
+    -ms-transition: all .8s ease;
+}
+
+.footer-content .footer-imgs ul li .ck {
+    background: url(../E宠/images/footer-logo.png) 0 -162px no-repeat;
+}
+
+.footer-content .footer-imgs ul li .ps {
+    background: url(../E宠/images/footer-logo.png) 0 -242px no-repeat;
+}
+
+.footer-content .footer-imgs ul li .hh {
+    background: url(../E宠/images/footer-logo.png) 0 -82px no-repeat;
+}
+
+.footer-content .footer-imgs ul li .bs {
+    background: url(../E宠/images/footer-logo.png) 0 -322px no-repeat;
+}
+
+.footer-content .footer-imgs ul li .cj {
+    background: url(../E宠/images/footer-logo.png) 0 -402px no-repeat;
+}
+
+.footer-content .footer-wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 25px;
+}
+
+.footer-content .footer-wrapper .info {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.footer-content .footer-wrapper .pay-style {
+    margin-left: 40px;
+}
+
+.footer-content .footer-wrapper .footer-phone .footer-number {
+    margin-left: 30px;
+}
+
+.footer-content .footer-wrapper .footer-phone .footer-number p {
+    margin-top: 15px;
+}
+
+.footer-content .footer-wrapper .pay-style,
+.footer-content .footer-wrapper .peisong-style,
+.footer-content .footer-wrapper .shopping-guide {
+    margin-right: 100px;
+}
+
+.footer-content .footer-wrapper .app-code,
+.footer-content .footer-wrapper .wx-code {
+    margin-top: -5px;
+}
+
+.footer-content .footer-wrapper .app-code {
+    margin-right: 36px;
+}
+
+.footer-content .footer-wrapper .app-code img,
+.footer-content .footer-wrapper .wx-code img {
+    margin-top: 10px;
+}
+
+.footer-content .footer-wrapper .flink {
+    padding-top: 20px;
+}
+
+.footer-content .footer-wrapper .flink .fwrapper {
+    width: 1150px;
+    height: 20px;
+}
+
+.footer-content .footer-wrapper .flink a {
+    display: inline-block;
+    margin: 0 15px 10px 0;
+}
+
+.footer-content .footer-wrapper .support {
+    margin-top: 20px;
+}
+
+.footer-content .footer-wrapper .support a,
+.footer-content .footer-wrapper .support span {
+    display: inline-block;
+    margin-right: 3px;
+}
+
+.footer-content .footer-wrapper .footer-copy {
+    padding: 20px 0 40px;
+    color: #000;
+}
+
+.rtcont {
+    position: relative;
+    height: 100%;
+}
+
+.rtcont-up {
+    padding-top: 10px px;
+    position: relative;
+}
+
+.rtcont li.rtl {
+    position: relative;
+}
+
+.bagBox {
+    background: #fff;
+    width: 292px;
+    position: absolute;
+    right: 35px;
+    top: 0;
+    padding: 0 10px 10px 21px;
+    border: 1px solid #ccc;
+}
+
+.rtcont a.rt-my {
+    background-position: 0 -235px;
+    margin: 26px 0;
+}
+
+.rtcont li.scart {
+    margin-bottom: 15px;
+}
+
+.newdot {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-position: -6px -600px;
+    top: -3px;
+    right: 2px;
+    display: none;
+}
+
+.rtcont li.rtl label {
+    display: none;
+    right: 53px;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+
+.scart a.rtico {
+    width: auto;
+    height: auto;
+    background-image: none;
+    font-size: 12px;
+    padding: 5px 0 10px;
+    margin: 0;
+}
+
+.rtcont a .rt-cart {
+    background-position: 0 -270px;
+}
+
+.rtico,
+.newdot,
+.menus li.dropmn a.mns,
+.rttop,
+.rtbot {
+    background-image: url(../E宠/images/bar_new.png);
+}
+
+.rtico {
+    display: block;
+    width: 35px;
+    height: 35px;
+}
+
+.scart a.rtico .rt-cart-num {
+    width: 19px;
+    text-align: center;
+    margin: 0 auto;
+    color: #a6a6a6;
+}
+
+.scart a.rtico .rt-cart-num span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    background-color: #a6a6a6;
+    color: #444;
+}
+
+.rtcont a.online-newico {
+    background-position: -1px -654px;
+}
+
+.sconsulted a.rtico {
+    width: auto;
+    height: auto;
+    background-image: none;
+    font-size: 12px;
+    padding: 5px 0 10px;
+    margin: 0 0 15px;
+}
+
+.sconsulted a.rtico .rtico {
+    margin: 0;
+}
+
+.rtcont a .rt-consulted {
+    background-position: 2px -617px;
+}
+
+.sconsulted a.rtico .rt-consulted-qus {
+    width: 19px;
+    text-align: center;
+    margin: 0 auto;
+    color: #a6a6a6;
+}
+
+.consolutBox .rtico .rt-consulted-qus span {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    background-color: #a6a6a6;
+    color: #444;
+}
+
+.rtcont a.rt-order {
+    background-position: 0 -305px;
+}
+
+.rtcont a {
+    text-decoration: none;
+}
+
+#rtbar {
+    position: fixed;
+    right: -35px;
+    top: 130px;
+    width: 35px;
+    z-index: 5005;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    height: 100%;
+    background-color: #444;
+
+}
+
+.nologin-order {
+    position: absolute;
+    top: 0;
+    right: 35px;
+    background: #fff;
+    width: 325px;
+    height: 128px;
+    line-height: 128px;
+    border: 1px solid #ccc;
+    display: none;
+    text-decoration: none;
+}
+
+.rtcont a.rt-view {
+    background-position: -1px -693px;
+}
+
+.rtcont .rtcont-dn {
+    position: absolute;
+    bottom: 20px;
+}
+
+.rtcont a.rt-app {
+    background-position: 0 -410px;
+}
+
+.rtcont a.rt-weixin {
+    background-position: 0 -720px;
+    cursor: pointer;
+    margin-bottom: 0;
+}
+
+.rtcont a.rt-weibo {
+    background-position: 0 -753px;
+}
+
+.rtcont li.hov label {
+    height: 35px;
+    width: 90px;
+    line-height: 35px;
+    background-color: #FFA200;
+    position: absolute;
+    top: 0;
+    text-align: center;
+    color: #FFF;
+    padding-right: 10px;
+    display: block;
+}
+
+.rtcont a.rt-top {
+    background-position: 0 -521px;
+    margin-bottom: 0;
+    visibility: hidden;
+}
